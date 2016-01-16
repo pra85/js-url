@@ -100,4 +100,4 @@ If you want to use Grunt you will need to install the required plugins locally u
 
 MIT licensed
 
-Copyright (C) 2011-2012 Websanova http://www.websanova.com
+Copyright (C) 2011-2016 Websanova http://www.websanova.com
